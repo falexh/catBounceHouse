@@ -38,7 +38,6 @@ h1
   border-bottom: 1px solid rgba(red,.1);
   background-color: lightblue;
   min-height: 200px;
-  background-image: linear-gradient(to bottom, rgba(#432, .4), transparent);
   padding: 2rem;
   color: 0;
   text-align: center;
