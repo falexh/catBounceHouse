@@ -37,10 +37,5 @@ function draw()
 		objects[x].update();
 		objects[x].edges();
 		objects[x].show();
-
 	}
-
-
-
-
 }
