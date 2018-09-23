@@ -55,23 +55,16 @@ h1
 }
 
 
+/* Media Queries
 @media  (max-width: 960px) {
-  body
-  {
-    background: royalblue;
-  }
-
+ 
 }
 
 @media (max-width: 480px) {
-  body
-  {
-    background: darkred;
-  }
+
 }
 
 @media (min-width: 769px;) {
-body
-{
-  background: red;
+
 }
+*/
